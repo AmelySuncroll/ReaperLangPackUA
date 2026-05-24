@@ -4,3 +4,4 @@
 Сторінка на офіційному форумі + інструкція зі встановлення:
 https://forum.cockos.com/showthread.php?t=305557
 
+Також встановлюйте локалізацію через ReaPack: https://reapack.com
