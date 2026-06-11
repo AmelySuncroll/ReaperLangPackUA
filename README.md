@@ -8,5 +8,4 @@ https://forum.cockos.com/showthread.php?t=305557
 
 Локалізація також доступна через ReaPack просто із коробки: https://reapack.com
 
-https://t.me/reaper_ua
-amelysuncroll@gmail.com
+https://t.me/reaper_ua  |  amelysuncroll@gmail.com
