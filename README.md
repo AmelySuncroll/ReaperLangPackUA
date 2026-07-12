@@ -1,4 +1,4 @@
-<img width="589" height="477" alt="Welcome" src="https://github.com/user-attachments/assets/ec6b4e8c-2cc6-4312-ac50-c6761d62f369" />
+<img width="589" height="477" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/1c7cfa66-2217-4283-915d-addf40e7669c" />
 
 
 Сторінка на офіційному форумі:
