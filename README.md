@@ -1,4 +1,4 @@
-# Українська локалізація REAPER DAW
+# Українська локалізація REAPER DAW 🇺🇦
 
 <img width="541" height="428" alt="зображення" src="https://github.com/user-attachments/assets/0209cf4d-f367-4c9c-9f52-ea2322d10d05" />
 
