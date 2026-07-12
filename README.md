@@ -1,6 +1,7 @@
 # Українська локалізація REAPER DAW
 
-<img width="589" height="477" alt="undefined - Imgur" src="https://github.com/user-attachments/assets/1c7cfa66-2217-4283-915d-addf40e7669c" />
+<img width="541" height="428" alt="зображення" src="https://github.com/user-attachments/assets/0209cf4d-f367-4c9c-9f52-ea2322d10d05" />
+
 
 ### Вимоги до версії REAPER:
 * **Мінімальна:** 7.43+ (бо розробники виправили хибне відображення інтерфейсу)
