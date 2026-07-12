@@ -56,7 +56,7 @@
 ### **Як встановити?**
 
 #### Стандартний спосіб:
-1. Завантажте файл `Ukrainian for v7.55+` у розділі **Releases** (див. праворуч);
+1. Завантажте файл `Ukrainian for v7.55+` у розділі **Releases**;
 2. Розпакуйте його як архів і перемістіть його вміст у папку `LangPack`: `Options / Show REAPER resource path... / LangPack /`;
 3. Оберіть мову в налаштуваннях: `Options / Preferences / General / Language`;
 4. Перезапустіть REAPER.
