@@ -39,7 +39,7 @@
 1. [Cambridge Dictionary](https://dictionary.cambridge.org);
 2. [Онлайн-бібліотека «Горох»](https://goroh.pp.ua);
 3. [Англійсько-українські словники](https://e2u.org.ua) / упор. А. Рисін, В. Старко та ін. 2011–2025;
-4. NotebookLM від Google (я дала йому словники Абрамовича + Присяжнюк та Reaper guide);
+4. NotebookLM від Google (я дала йому словники Абрамовича + Присяжнюк та Reaper Guide);
 5. ChatGPT / Gemini (авжеж, інколи ми спілкувалися);
 6. YouTube-канал [TheREAPERBlog](https://www.youtube.com/@TheREAPERBlog);
 7. YouTube-канал [REAPERMania](https://www.youtube.com/@REAPERMania);
