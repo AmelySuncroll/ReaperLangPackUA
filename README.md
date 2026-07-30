@@ -2,6 +2,9 @@
 
 <img width="541" height="428" alt="зображення" src="https://github.com/user-attachments/assets/0209cf4d-f367-4c9c-9f52-ea2322d10d05" />
 
+<img width="723" height="519" alt="2026-07-30_22-48-19_region (2)" src="https://github.com/user-attachments/assets/4361b253-f926-4ed4-9acf-87bab3a72b78" />
+
+
 *Позаду 11 місяців праці (від початку перекладу до моменту публікації v1.0). Перекладала з англійської власноруч без копіпасту наосліп та пакетного перекладу від ШІ.*
 *SWS-розширення перекладаю, поступ 99%.*
 
