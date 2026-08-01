@@ -4,6 +4,7 @@
 
 <img width="723" height="519" alt="2026-07-30_22-48-19_region (2)" src="https://github.com/user-attachments/assets/4361b253-f926-4ed4-9acf-87bab3a72b78" />
 
+<img width="937" height="494" alt="reapack_ua" src="https://github.com/user-attachments/assets/ddbf9120-4a93-402c-b969-635aae358579" />
 
 *Позаду 11 місяців праці (від початку перекладу до моменту публікації v1.0). Перекладала з англійської власноруч без копіпасту наосліп та пакетного перекладу від ШІ.*
 *SWS-розширення перекладаю, поступ 99%.*
